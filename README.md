@@ -1,2 +1,0 @@
-# cgproject
-hello world
